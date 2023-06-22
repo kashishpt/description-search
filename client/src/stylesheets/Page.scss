@@ -1,0 +1,35 @@
+.page-container {
+
+    #search-box-container {
+        text-align: center;
+
+        input {
+            display:inline-block;
+            border: 1px rgb(217, 214, 214) solid;
+            padding: 4px;
+            border-radius: 6px;
+            font-size: large;
+            margin-bottom: 4px;
+            width: 75%;
+            height: 30px;
+        }
+
+        button {
+            display:inline-block;
+            height: 30px;
+            width: 30px;
+            margin-left: 4px;
+            transition: ease 0.5s all
+        }
+
+        button:hover {
+            cursor: pointer;
+            background-color: rgb(146, 255, 146);
+            border: 1px grey solid;
+            border-radius: 7px;
+        }
+
+
+    }
+
+}

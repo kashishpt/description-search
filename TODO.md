@@ -1,0 +1,4 @@
+- ~~error handling for channels that don't exist~~
+- allowing for multiple pages of results (see nextPageToken in playlistItem API response)
+- show help for how to find the channel ID
+	- channel homepage > about > share > copy channel id
